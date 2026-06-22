@@ -21,6 +21,7 @@ EAE! Meu nome é Lucius Kether.
 • HTML5
 • CSS3
 • JavaScript
+• Bootstrap
 
 🗄️ Banco de Dados:
 • SQL
@@ -51,6 +52,8 @@ EAE! Meu nome é Lucius Kether.
   <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
   <img alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 ## 📫 Contato
