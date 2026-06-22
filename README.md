@@ -1,16 +1,21 @@
-## Hi there 👋
+EAE! Meu nome é Lucius Kether.
 
-<!--
-**LC-KING-debug/LC-KING-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Engenharia de Software, atualmente cursando o 5º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+💻 Possuo conhecimentos em Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS e JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sou apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades através de estudos, projetos práticos e novos desafios.
+
+📚 Atualmente, meu objetivo é evoluir cada vez mais como desenvolvedor, adquirir experiência profissional e contribuir para a criação de aplicações web modernas, eficientes e de qualidade.
+
+🛠️ Tecnologias:
+• Python
+• Django
+• Flask
+• HTML5
+• CSS3
+• JavaScript
+• Git & GitHub
+
+🌎 Brasil
+📈 Em constante evolução e aprendizado.
