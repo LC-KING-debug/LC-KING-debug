@@ -1,6 +1,6 @@
-👋 Olá! Meu nome é Lucius Kether.
+EAE! Meu nome é Lucius Kether.
 
-🎓 Sou estudante de Engenharia de Software, atualmente cursando o 5º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack.
+🎓 Sou estudante de Engenharia de Software, atualmente cursando o 6º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack.
 
 💻 Possuo conhecimentos em desenvolvimento Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS e JavaScript.
 
@@ -51,4 +51,26 @@
   <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
   <img alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</p>
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/lc_kth_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://wa.me/+55 98 8114-3196" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="luciuskether5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
