@@ -10,6 +10,10 @@ EAE! Meu nome é Lucius Kether.
 
 📚 Atualmente, meu objetivo é evoluir como desenvolvedor, adquirir experiência profissional e contribuir para a criação de aplicações web modernas, eficientes e escaláveis.
 
+<p align="right">
+  <img src="https://wallpaperaccess.com/full/784878.jpg" width="300px" alt="Punisher">
+</p>
+
 🛠️ Tecnologias e Ferramentas
 
 🐍 Back-End:
