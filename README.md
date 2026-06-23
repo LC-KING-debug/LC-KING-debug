@@ -14,6 +14,10 @@ EAE! Meu nome é Lucius Kether.
   <img src="https://images2.alphacoders.com/888/888109.png">
 </p>
 
+<table>
+<tr>
+<td>
+
 🛠️ Tecnologias e Ferramentas
 
 🐍 Back-End:
@@ -37,6 +41,15 @@ EAE! Meu nome é Lucius Kether.
 
 🌎 Brasil
 📈 Aprendendo, construindo e evoluindo todos os dias.
+
+</td>
+<td>
+
+<img src="https://wallpaperaccess.com/full/784878.jpg" width="300px" alt="Punisher">
+
+</td>
+</tr>
+</table>
 
 <p align="left">
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
