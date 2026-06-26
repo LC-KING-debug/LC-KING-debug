@@ -4,7 +4,7 @@ EAE! Meu nome é Lucius Kether.
 
 💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e bootstrap.
 
-🗄️ Também tenho experiência com bancos de dados relacionais, trabalhando com SQL e MySQL para modelagem, consultas e gerenciamento de dados.
+🗄️ Também tenho experiência com bancos de dados relacionais, trabalhando com SQL e PostgreSQL. para modelagem, consultas e gerenciamento de dados.
 
 🚀 Sou apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades através de estudos, projetos práticos e novos desafios.
 
