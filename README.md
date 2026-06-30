@@ -28,7 +28,7 @@ EAE! Meu nome é Lucius Kether.
 • Tailwind
 
 🗄️ Banco de Dados:
-• SQL
+• MySQL
 
 ⚙️ Ferramentas:
 • Git
