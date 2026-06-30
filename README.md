@@ -35,6 +35,9 @@ EAE! Meu nome é Lucius Kether.
 • GitHub
 • Vscode
 
+🔗 APIs:
+• Consumo de APIs REST
+
 🌎 Brasil
 📈 Aprendendo, construindo e evoluindo todos os dias.
 
