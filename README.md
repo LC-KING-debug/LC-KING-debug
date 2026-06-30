@@ -2,7 +2,7 @@ EAE! Meu nome é Lucius Kether.
 
 🎓 Sou estudante de Engenharia de Software, atualmente cursando o 6º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack WEB.
 
-💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e bootstrap.
+💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e Tailwind
 
 🗄️ Também tenho experiência com bancos de dados relacionais, trabalhando com SQL e PostgreSQL. para modelagem, consultas e gerenciamento de dados.
 
@@ -26,7 +26,7 @@ EAE! Meu nome é Lucius Kether.
 • HTML5
 • CSS3
 • JavaScript
-• Bootstrap
+• Tailwind
 
 🗄️ Banco de Dados:
 • SQL
@@ -59,7 +59,7 @@ EAE! Meu nome é Lucius Kether.
 
   <img alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
 
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
