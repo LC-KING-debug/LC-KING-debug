@@ -2,9 +2,9 @@ EAE! Meu nome é Lucius Kether.
 
 🎓 Sou estudante de Engenharia de Software, atualmente cursando o 6º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack WEB.
 
-💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, Django e Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e Tailwind
+💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, e estudando Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e Tailwind
 
-🗄️ Também tenho experiência com bancos de dados relacionais, trabalhando com SQL e PostgreSQL. para modelagem, consultas e gerenciamento de dados.
+🗄️ Também tenho experiência com banco de dados relacionais, trabalhando com MySQL. Para modelagem, consultas e gerenciamento de dados.
 
 🚀 Sou apaixonado por tecnologia, resolução de problemas e aprendizado contínuo. Estou sempre buscando aprimorar minhas habilidades através de estudos, projetos práticos e novos desafios.
 
@@ -19,7 +19,6 @@ EAE! Meu nome é Lucius Kether.
 
 🐍 Back-End:
 • Python
-• Django
 • Flask
 
 🌐 Front-End:
@@ -30,11 +29,11 @@ EAE! Meu nome é Lucius Kether.
 
 🗄️ Banco de Dados:
 • SQL
-• PostgreSQL
 
 ⚙️ Ferramentas:
 • Git
 • GitHub
+• Vscode
 
 🌎 Brasil
 📈 Aprendendo, construindo e evoluindo todos os dias.
@@ -51,8 +50,6 @@ EAE! Meu nome é Lucius Kether.
 <p align="left">
   <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-  <img alt="Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-
   <img alt="Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 
   <img alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -64,8 +61,6 @@ EAE! Meu nome é Lucius Kether.
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
   <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
-  <img alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   
   <img alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
