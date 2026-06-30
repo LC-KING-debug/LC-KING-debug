@@ -38,6 +38,9 @@ EAE! Meu nome é Lucius Kether.
 🔗 APIs:
 • Consumo de APIs REST
 
+☁️ Deploy:
+• Render
+
 🌎 Brasil
 📈 Aprendendo, construindo e evoluindo todos os dias.
 
