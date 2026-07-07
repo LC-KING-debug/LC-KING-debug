@@ -100,4 +100,4 @@ EAE! Meu nome é Lucius Kether.
 </a>
 
 </p>
-<a>MEU CURRÍCULO WEB: https://curriculo-web-q96e.onrender.com</a>
+<a>MEU CURRÍCULO WEB: href:"https://curriculo-web-q96e.onrender.com"</a>
