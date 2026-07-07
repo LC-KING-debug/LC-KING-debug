@@ -100,5 +100,7 @@ EAE! Meu nome é Lucius Kether.
 </a>
 
 </p>
-<p>MEU CURRÍCULKO WEB:</p>
-<a href="https://curriculo-web-q96e.onrender.com"></a>
+
+<a href="https://curriculo-web-q96e.onrender.com">
+  ///MEU CURRÍCULO WEB///
+</a>
