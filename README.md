@@ -2,7 +2,7 @@ EAE! Meu nome é Lucius Kether.
 
 🎓 Sou estudante de Engenharia de Software, atualmente cursando o 6º período, e estou construindo minha trajetória na área de Tecnologia da Informação com foco em desenvolvimento Full Stack WEB.
 
-💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, e estudando Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e Tailwind
+💻 Possuo conhecimentos em desenvolvimento WEB Back-End utilizando Python, e estudando Flask, além de desenvolvimento Front-End com HTML, CSS, JavaScript e estudando Tailwind também
 
 🗄️ Também tenho experiência com banco de dados relacionais, trabalhando com MySQL. Para modelagem, consultas e gerenciamento de dados.
 
