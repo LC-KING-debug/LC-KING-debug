@@ -91,7 +91,7 @@ EAE! Meu nome é Lucius Kether.
 
 
 
-<a href="https://wa.me/559881143196" target="_blank">
+<a href="https://wa.me/559881764397" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
