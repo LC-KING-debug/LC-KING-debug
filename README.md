@@ -2,8 +2,6 @@
 
 # 👋 OLÁ! Me chamo Lucius Kether!
 
-
-
 <br>
 
 <a href="https://git.io/typing-svg">
@@ -40,6 +38,14 @@
 
 <br><br>
 
+**Assembly**
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🛡️ Cybersecurity & Infraestrutura
 
 <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux">
@@ -50,6 +56,25 @@
 📚 **Em aprendizado**
 
 `Redes` • `Linux` • `Windows` • `Infraestrutura` • `Segurança da Informação` • `Blue Team`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=wireshark" height="55" alt="Wireshark">
+<img src="https://skillicons.dev/icons?i=nmap" height="55" alt="Nmap">
+<img src="https://skillicons.dev/icons?i=powershell" height="55" alt="PowerShell">
+<img src="https://skillicons.dev/icons?i=kali" height="55" alt="Kali Linux">
+
+<br><br>
+
+📚 **Em aprendizado**
+
+`Análise de Redes` • `Reconhecimento` • `Administração de Sistemas` • `Monitoramento` • `Segurança Defensiva`
 
 </div>
 
