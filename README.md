@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Infraestrutura+%7C+Seguran%C3%A7a;Estudante+de+Engenharia+de+Software" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Infraestrutura+%7C+Seguran%C3%A7a;Estudante+de+Engenharia+de+Software" alt="Typing SVG">
 </a>
 
 <br>
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## 🎯 Atualmente
+## 🎯 Atualmente Estudando
 
 🖥️ **Sistemas Operacionais**
 
