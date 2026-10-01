@@ -6,7 +6,7 @@
 
 Cybersecurity • Blue Team • Segurança Defensiva
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00A8FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Infraestrutura+%7C+Seguran%C3%A7a" alt="Cybersecurity e Blue Team">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1200&color=00A8FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Infraestrutura+%7C+Seguran%C3%A7a" alt="Cybersecurity e Blue Team">
 
 </div>
 
