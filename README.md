@@ -1,6 +1,12 @@
 EAE! Meu nome é Lucius Kether.
 
-🎓 Sou estudante de Engenharia de Software, atualmente cursando o 6º período, e estou construindo minha trajetória na área de Cybersecurity
+🎓 Estudante de Engenharia de Software | 6º período
+
+🛡️ Iniciando minha trajetória em Cybersecurity, com foco em Blue Team e Segurança Defensiva.
+
+🐍 Conhecimentos em Python, HTML, CSS, JavaScript, SQL, C e Assembly
+
+📚 Atualmente estudando Redes, Sistemas, Infraestrutura e Segurança da Informação.
 
 
 
