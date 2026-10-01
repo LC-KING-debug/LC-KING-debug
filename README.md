@@ -20,7 +20,7 @@ Cybersecurity • Foco em Blue Team • Conhecimentos em red team
 
 </div>
 
-## Cybersecurity e Infraestrutura
+## Sistemas Operacionais
 
 <div align="center">
 
