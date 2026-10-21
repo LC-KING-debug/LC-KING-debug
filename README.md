@@ -2,7 +2,8 @@
 
 # Lucius Kether
 
-**Estudante de Engenharia de Software | 6º período**
+**Estudante de Cibersegurança**
+**Cursando Engenharia de Software | 6º período**
 
 Cybersecurity • Blue Team • Segurança Defensiva
 
