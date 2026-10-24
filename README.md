@@ -2,14 +2,13 @@
 
 # Lucius Kether
 
-**Estudante de Cibersegurança**
+**Estudante de Engenharia de Software | Foco em Cibersegurança**
 
-Cursando Engenharia de Software | 6º período
-
+Bacharelado em Engenharia de Software • 6º período
 
 Cybersecurity • Blue Team • Segurança Defensiva
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=00A8FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Infraestrutura+%7C+Seguran%C3%A7a" alt="Cybersecurity e Blue Team">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1200&color=00A8FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Blue+Team;Redes+%7C+Sistemas+%7C+Seguran%C3%A7a" alt="Cybersecurity, Blue Team, redes e segurança">
 
 </div>
 
@@ -19,7 +18,7 @@ Cybersecurity • Blue Team • Segurança Defensiva
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,c,git,github,vscode" alt="Python, JavaScript, MySQL, C, Git, GitHub e VS Code">
+<img src="https://skillicons.dev/icons?i=python,c,bash,powershell,mysql,git,github,vscode" alt="Python, C, Bash, PowerShell, MySQL, Git, GitHub e VS Code">
 
 </div>
 
@@ -31,18 +30,23 @@ Cybersecurity • Blue Team • Segurança Defensiva
 
 </div>
 
-**Em aprendizado:** Redes de Computadores, Sistemas Operacionais, Infraestrutura de TI e Segurança da Informação.
-
-## Ferramentas
+## Ferramentas de Segurança
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" alt="Nmap">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 
 </div>
+
+## Em Aprendizado
+
+- **Programação:** Python e C.
+- **Scripting:** Bash e PowerShell.
+- **Fundamentos:** Redes de computadores, sistemas operacionais e infraestrutura de TI.
+- **Cibersegurança:** Blue Team, segurança defensiva e fundamentos de análise de incidentes.
+- **Prática:** Desenvolvimento de ferramentas próprias e laboratórios de segurança.
 
 ## Contato
 
@@ -59,3 +63,4 @@ Cybersecurity • Blue Team • Segurança Defensiva
 </a>
 
 </div>
+```
