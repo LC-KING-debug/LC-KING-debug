@@ -19,7 +19,7 @@ Cybersecurity • Blue Team • Segurança Defensiva
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,mysql,c,git,github,vscode" alt="Python, JavaScript, MySQL, C, Git, GitHub e VS Code">
+<img src="https://skillicons.dev/icons?i=python,mysql,c,git,github,vscode" alt="Python, JavaScript, MySQL, C, Git, GitHub e VS Code">
 
 </div>
 
