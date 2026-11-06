@@ -18,7 +18,7 @@ Cybersecurity • Blue Team • Segurança Defensiva
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,bash,powershell,mysql,git,github,vscode" alt="Python, C, Bash, PowerShell, MySQL, Git, GitHub e VS Code">
+<img src="https://skillicons.dev/icons?i=python,c,bash,powershell,mysql,git,vscode" alt="Python, C, Bash, PowerShell, MySQL, Git e VS Code">
 
 </div>
 
